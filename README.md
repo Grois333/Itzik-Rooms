@@ -1,5 +1,41 @@
 # Itzik Rooms
 
+### Link to App: https://itzik-rooms.surge.sh/
+
+#### Frontend: Vue.js Framework, Vuex, Vue Router
+#### Backend: Firebase
+
+![Main](https://raw.githubusercontent.com/Grois333/Itzik-Rooms/master/images/featured.png)
+
+
+
+### Home:
+
+![Home](https://raw.githubusercontent.com/Grois333/Itzik-Rooms/master/images/home.png)
+
+
+
+### Login:
+
+![Login](https://raw.githubusercontent.com/Grois333/Itzik-Rooms/master/images/login.png)
+
+
+### Register:
+
+![Contact](https://raw.githubusercontent.com/Grois333/Itzik-Rooms/master/images/register.png)
+
+
+### Publish Room:
+
+![Requests](https://raw.githubusercontent.com/Grois333/Itzik-Rooms/master/images/publish%20room.png)
+
+
+### Search:
+
+![Requests](https://raw.githubusercontent.com/Grois333/Itzik-Rooms/master/images/search.png)
+
+
+
 ## Project setup
 ```
 yarn install
